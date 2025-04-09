@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @raghavujjwal
-- 🌱 I’m currently learning Logistic Regression, Random forests, XGBoost
 - 📫 How to reach me raghav.uj@gmail.com
 
 <!---
